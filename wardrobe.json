@@ -1,0 +1,309 @@
+{
+  "metadata": {
+    "owner": "You",
+    "lastUpdated": "2026-03-14",
+    "totalItems": 15,
+    "totalWardrobeValue": 1500,
+    "schoolYear": "College Fall 2026",
+    "currentLocation": "NYC",
+    "seasonalFocus": "Summer 2026 to Fall 2026 transition",
+    "styleProfile": {
+      "aesthetics": ["Luxury/designer-focused", "Minimalist/clean basics", "Streetwear/hype", "Preppy/smart casual"],
+      "aesthetic_description": "High-low mix: blends premium European brands (Stone Island, Moncler) with streetwear (Supreme, Broken Planet) and heritage denim, grounded in functional minimalism. Quality-conscious with an appreciation for craftsmanship.",
+      "colorPalette": "Neutral (black, white, gray, beige, brown)",
+      "fitPreference": "Regular/versatile",
+      "bodyType": "Regular/versatile",
+      "brandTendencies": {
+        "luxury": ["Stone Island", "Moncler", "ALD (Aime Leon Dore)"],
+        "midPremium": ["Beckett Simonon", "JW Anderson", "Fugazi", "Supreme", "North Face"],
+        "accessible": ["Uniqlo", "Withered Fig"]
+      },
+      "budget": {
+        "summer2026": 300,
+        "fall2026": 500,
+        "total": 800,
+        "timeline": "March 2026 through August 2026 for fall semester prep"
+      },
+      "lifestyle": "College student preparing for campus life in fall 2026. Needs versatile, durable pieces for dorm living and campus activities."
+    }
+  },
+  "clothing": [
+    {
+      "id": "shoe_001",
+      "category": "shoes",
+      "type": "sneaker",
+      "name": "Beckett Simonon GATs",
+      "color": "black",
+      "brand": "Beckett Simonon",
+      "material": "canvas/leather",
+      "condition": "excellent",
+      "pricePoint": "mid-premium",
+      "estimatedPrice": 85,
+      "acquired": "2023",
+      "notes": "Versatile baseline sneaker, excellent quality craftsmanship"
+    },
+    {
+      "id": "shoe_002",
+      "category": "shoes",
+      "type": "sneaker",
+      "name": "Jordan 4 Military Black",
+      "color": "black",
+      "brand": "Nike/Jordan",
+      "material": "leather",
+      "condition": "worn-needs-replacement",
+      "pricePoint": "mid-premium",
+      "estimatedPrice": 190,
+      "acquired": "2021",
+      "notes": "Iconic silhouette, needs replacement soon"
+    },
+    {
+      "id": "top_001",
+      "category": "tops",
+      "type": "zip-up",
+      "name": "Stone Island Zip Up",
+      "color": "black",
+      "brand": "Stone Island",
+      "material": "cotton blend",
+      "condition": "excellent",
+      "pricePoint": "premium",
+      "estimatedPrice": 150,
+      "acquired": "2024",
+      "notes": "European heritage, technical craftsmanship, versatile layering piece"
+    },
+    {
+      "id": "top_002",
+      "category": "tops",
+      "type": "crew-neck",
+      "name": "Moncler Crew Neck",
+      "color": "black",
+      "brand": "Moncler",
+      "material": "cotton",
+      "condition": "excellent",
+      "pricePoint": "luxury",
+      "estimatedPrice": 200,
+      "acquired": "2024",
+      "notes": "Premium Italian luxury, versatile baseline sweatshirt"
+    },
+    {
+      "id": "top_003",
+      "category": "tops",
+      "type": "button-up-shirt",
+      "name": "Aime Leon Dore Shirt (Blue)",
+      "color": "blue",
+      "brand": "Aime Leon Dore",
+      "material": "cotton",
+      "condition": "excellent",
+      "pricePoint": "mid-premium",
+      "estimatedPrice": 98,
+      "acquired": "2024",
+      "notes": "NYC-based heritage brand, quality basics"
+    },
+    {
+      "id": "top_004",
+      "category": "tops",
+      "type": "button-up-shirt",
+      "name": "Aime Leon Dore Shirt (Brown)",
+      "color": "brown",
+      "brand": "Aime Leon Dore",
+      "material": "cotton",
+      "condition": "excellent",
+      "pricePoint": "mid-premium",
+      "estimatedPrice": 98,
+      "acquired": "2024",
+      "notes": "Complements earth tone palette"
+    },
+    {
+      "id": "top_005",
+      "category": "tops",
+      "type": "shirt",
+      "name": "Withered Fig Shirt (Green)",
+      "color": "green",
+      "brand": "Withered Fig",
+      "material": "cotton",
+      "condition": "excellent",
+      "pricePoint": "accessible",
+      "estimatedPrice": 35,
+      "acquired": "2023",
+      "notes": "Pop of color, good quality basics"
+    },
+    {
+      "id": "top_006",
+      "category": "tops",
+      "type": "t-shirt",
+      "name": "Uniqlo Black T-Shirt",
+      "color": "black",
+      "brand": "Uniqlo",
+      "material": "cotton",
+      "condition": "excellent",
+      "pricePoint": "accessible",
+      "estimatedPrice": 15,
+      "acquired": "2023",
+      "notes": "Foundational basic, excellent value"
+    },
+    {
+      "id": "bottom_001",
+      "category": "bottoms",
+      "type": "jeans",
+      "name": "Uniqlo x JW Anderson Raw Denim",
+      "color": "indigo",
+      "brand": "Uniqlo/JW Anderson",
+      "material": "raw denim",
+      "condition": "excellent",
+      "pricePoint": "mid-accessible",
+      "estimatedPrice": 60,
+      "acquired": "2023",
+      "notes": "Excellent collaboration, raw denim quality, good heritage"
+    },
+    {
+      "id": "bottom_002",
+      "category": "bottoms",
+      "type": "jeans",
+      "name": "Fugazi Jeans",
+      "color": "indigo",
+      "brand": "Fugazi",
+      "material": "denim",
+      "condition": "excellent",
+      "pricePoint": "mid-premium",
+      "estimatedPrice": 120,
+      "acquired": "2023",
+      "notes": "Heritage denim, quality craftsmanship"
+    },
+    {
+      "id": "bottom_003",
+      "category": "bottoms",
+      "type": "jeans",
+      "name": "Supreme Black Denim",
+      "color": "black",
+      "brand": "Supreme",
+      "material": "denim",
+      "condition": "excellent",
+      "pricePoint": "mid-premium",
+      "estimatedPrice": 130,
+      "acquired": "2022",
+      "notes": "Streetwear staple, versatile black denim"
+    },
+    {
+      "id": "bottom_004",
+      "category": "bottoms",
+      "type": "sweatpants",
+      "name": "Broken Planet Black Sweatpants",
+      "color": "black",
+      "brand": "Broken Planet",
+      "material": "cotton",
+      "condition": "worn-needs-replacement",
+      "pricePoint": "mid-accessible",
+      "estimatedPrice": 70,
+      "acquired": "2022",
+      "notes": "Streetwear brand, needs replacement"
+    },
+    {
+      "id": "outerwear_001",
+      "category": "outerwear",
+      "type": "puffer",
+      "name": "North Face Light Brown Puffer",
+      "color": "light brown/tan",
+      "brand": "The North Face",
+      "material": "nylon/down",
+      "condition": "excellent",
+      "pricePoint": "mid-premium",
+      "estimatedPrice": 180,
+      "acquired": "2023",
+      "notes": "Technical outerwear, versatile neutral tone"
+    },
+    {
+      "id": "outerwear_002",
+      "category": "outerwear",
+      "type": "zip-up",
+      "name": "Patagonia Zip Up",
+      "color": "black",
+      "brand": "Patagonia",
+      "material": "recycled nylon",
+      "condition": "excellent",
+      "pricePoint": "mid-premium",
+      "estimatedPrice": 120,
+      "acquired": "2024",
+      "notes": "Sustainable tech fabric, versatile layer"
+    }
+  ],
+  "gaps": {
+    "immediate": [
+      "Jordan 4s replacement (worn out, iconic silhouette)",
+      "Broken Planet sweatpants replacement (worn out, needed for casual wear)"
+    ],
+    "summer2026": {
+      "priority": "High",
+      "budget": 300,
+      "items": [
+        {
+          "category": "shirts/tees",
+          "need": 2-3 lightweight shirts or tees",
+          "materials": "linen, cotton blends, breathable",
+          "colors": "white, cream, light gray, or neutral",
+          "examples": "ALD linen shirts, Uniqlo linen, vintage-style basics",
+          "rationale": "Currently only have Uniqlo black tee and ALD button-ups. Need more summer-appropriate lightweight options."
+        },
+        {
+          "category": "bottoms",
+          "need": "Lightweight pants or shorts",
+          "materials": "chinos, linen blends, lightweight cotton",
+          "colors": "khaki, cream, light gray, or neutral tan",
+          "rationale": "Only have denim and worn sweatpants. Shorts/lighter pants essential for summer and college campus."
+        },
+        {
+          "category": "shoes",
+          "need": "Summer-appropriate sneaker",
+          "materials": "white leather, mesh, canvas, or breathable",
+          "colors": "white, cream, or light",
+          "examples": "New Balance 1906, Beckett Simonon clean white option, Asics, or similar",
+          "rationale": "GATs are black and heavy. Need light/white option for summer aesthetic."
+        }
+      ]
+    },
+    "fall2026": {
+      "priority": "High",
+      "budget": 500,
+      "timeline": "May-August 2026",
+      "items": [
+        {
+          "category": "outerwear",
+          "need": "Structured outerwear or layering jacket",
+          "materials": "cotton, wool blend, or technical",
+          "colors": "cream, gray, brown, or tan",
+          "examples": "Overshirt (ALD, Stone Island), Coach jacket, Trucker jacket, Button-up shirt jacket",
+          "rationale": "Have puffer and Patagonia zip but need more everyday structured options for fall on campus"
+        },
+        {
+          "category": "sweaters/knits",
+          "need": "1-2 sweaters or cardigans",
+          "materials": "wool, cotton blend, merino",
+          "colors": "cream, gray, sage, or soft earth tones",
+          "examples": "ALD crewneck, Stone Island wool, luxury basics",
+          "rationale": "Currently have Moncler crew (black) and Stone Island zip. Need lighter, versatile sweater options."
+        },
+        {
+          "category": "bottoms",
+          "need": "Replace worn Broken Planet sweatpants",
+          "materials": "cotton, fleece, or quality athletic",
+          "colors": "black, gray, or cream",
+          "examples": "ALD sweatpants, Uniqlo sweatpants, premium basics",
+          "rationale": "Current pair worn out. Sweatpants essential for dorm life."
+        },
+        {
+          "category": "basics",
+          "need": "Long-sleeve shirts or elevated basics",
+          "materials": "cotton, linen blend",
+          "colors": "white, cream, light gray",
+          "examples": "ALD long-sleeve, Uniqlo quality basics, heritage basics",
+          "rationale": "Minimal long-sleeve options for fall transition"
+        },
+        {
+          "category": "accessories",
+          "need": "Optional: Belt, bag, or accessory upgrades",
+          "materials": "leather, canvas",
+          "colors": "brown, black, cream",
+          "rationale": "Lower priority but useful for college life and outfit completion"
+        }
+      ]
+    }
+  },
+}
